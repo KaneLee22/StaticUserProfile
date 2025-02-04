@@ -30,7 +30,7 @@ fun ProfileScreen(){
 
     // Optimize the UI by 4o
     val backgroundBrush = Brush.verticalGradient(
-        colors = listOf(Color(0xFF0D1B2A), Color(0xFF1B263B)) // 4o helps me to pick a color for background
+        colors = listOf(Color(0xFF1E1E1E), Color.Black)
     )
 
     // Display the main content on the Screen and provide SnackbarHost
